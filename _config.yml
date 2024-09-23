@@ -11,7 +11,7 @@ title:            Doop
 tagline:          'A Jekyll theme'
 description:      'A brazen attempt to promote <a href="https://linkedin.com/in/consultprem" target="_blank">Prem the expert</a> becuase he understand the difference between a posterior and other things. Made by <a href="https://twitter.com/prempiric" target="_blank">@prempiric</a>.'
 url:              http://cresttrade.com
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Prem Sharma'
